@@ -161,6 +161,7 @@ void sha256_double_hash_hex(const char *input, char *output, unsigned int len);
 #include "algos/x22i.h"
 #include "algos/xevan.h"
 #include "algos/hmq17.h"
+#include "algos/honeycomb.h"
 #include "algos/nist5.h"
 #include "algos/fresh.h"
 #include "algos/hsr14.h"
